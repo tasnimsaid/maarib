@@ -139,5 +139,24 @@ textarea{
 	
 }
  
+ 
+    .set7{
+
+  display: flex;
+
+
+    }
+	
+	.sum11{
+    background: black;
+    color: aliceblue;
+    width: 150px;
+    text-align: center;
+    border: 1px solid cyan;
+    padding: 5px;
+    font-size: x-large;
+    
+    }
+    
 
 //#e0e0e0
